@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student of VNTU. Responsible and attention to detail person.<br><br>— I have experience in IT companies 💻<br>— I have experience in communication with customers 🤝<br>— I have experience in communication with developers 💬
+Student of VNTU. Responsible and attention to detail person.<br><br>I have experience:<br>— in IT company 💻<br>— in communication with customers 🤝<br>— in communication with developers 💬
 
 
 ## 🌐 Socials:
